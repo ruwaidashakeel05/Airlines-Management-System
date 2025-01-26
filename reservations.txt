@@ -1,0 +1,20 @@
+Username: ruwaida
+Ticket ID: 1
+Passenger: Ruwaida
+Phone: 03257920782
+Email: ruwaida@gmail.com
+Flight ID: 1
+Flight Details: Lahore | 1am | 9am | 12-01-2025
+Price: Rs5200.00
+Seat Number: 1
+---------------------------------
+Username: shakeel
+Ticket ID: 2
+Passenger: Shakeel Ahmed
+Phone: 03324578457
+Email: shakeel@gmail.com
+Flight ID: 3
+Flight Details: Peshawar | 6am | 10am | 03-03-2025
+Price: Rs12400.00
+Seat Number: 101
+---------------------------------
